@@ -10,4 +10,4 @@ up with pathogen, or use [Vundle](https://github.com/gmarik/vundle).
 
 Problems?
 ---------
-Too bad :(
+Too bad
